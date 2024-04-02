@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SQLConnection:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SQLConnection_jar</output-path>
+    <root id="archive" name="SQLConnection.jar">
+      <element id="module-output" name="SQLConnection" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.26/mysql-connector-java-8.0.26.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
